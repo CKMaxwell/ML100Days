@@ -11,17 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../HISKIO_course/Keras_Basic/ex_pandas.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,6 +28,7 @@
       <list>
         <option value="$PROJECT_DIR$/Day_001_example_of_metrics.ipynb" />
         <option value="$PROJECT_DIR$/../HackerRank/Problem_Solving/Warmup/Diagonal_Difference.py" />
+        <option value="$PROJECT_DIR$/../HISKIO_course/Keras_Basic/ex_pandas.ipynb" />
       </list>
     </option>
   </component>
@@ -148,7 +139,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -204,7 +195,7 @@
     <entry file="file://$PROJECT_DIR$/../HISKIO_course/Keras_Basic/ex_pandas.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="17" />
+          <selected id="3" />
         </state>
       </provider>
     </entry>
