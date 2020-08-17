@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,6 +29,7 @@
         <option value="$PROJECT_DIR$/Day_001_example_of_metrics.ipynb" />
         <option value="$PROJECT_DIR$/../HackerRank/Problem_Solving/Warmup/Diagonal_Difference.py" />
         <option value="$PROJECT_DIR$/../HISKIO_course/Keras_Basic/ex_pandas.ipynb" />
+        <option value="$PROJECT_DIR$/Day_008_HW.ipynb" />
       </list>
     </option>
   </component>
@@ -43,6 +44,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -54,7 +56,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,6 +197,13 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day_008_HW.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
         </state>
       </provider>
     </entry>
